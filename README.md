@@ -1,14 +1,14 @@
-# Nitro5 - OpCore 0.94 - MacOS Ventura 13.5
+# OpCore 0.94 - MacOS Ventura 13.5
 ![Captura de Tela 2023-08-20 às 15 20 08](https://github.com/tchozen/Nitro5_Ventura-0.94/assets/25504430/6e475c16-ea5b-499c-89cb-e36e15c26f48)
 
-# Hardware
-i7 8750H - 6C/12T (undervolt -0.147v)
+# Nitro5 AN515-52
+i7 8750H (@Undervolt -0.147v)
 
-8GB XPG 2666 + 8GB Kingston 3200 (@ 2993mhz 1.25v)
+8GB XPG 2666 + 8GB Kingston 3200 (@2993mhz 1.25v)
 
 Asgard NVME 512GB + SanDisk Plus 240GB
 
-Coffee Lake UHD 630 + 1050TI 
+Intel UHD 630 + 1050TI 
 
 Intel AC 9560 (WIFI + BT)
 
