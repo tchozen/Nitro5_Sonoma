@@ -8,7 +8,7 @@
 
 :floppy_disk: Asgard NVME 512GB + SanDisk Plus 240GB
 
-:desktop_computer: Coffee Lake UHD 630 + 1050TI 
+:desktop_computer: Coffee Lake UHD 630 + GTX 1050TI
 
 :signal_strength: Intel AC 9560 (WIFI + BT)
 
