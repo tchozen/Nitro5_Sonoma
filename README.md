@@ -15,27 +15,27 @@ Intel AC 9560 (WIFI + BT)
 
 # Funciona? 99% porem estável 24/7
 
-*:no_entry_sign:MacOS 14 Beta (black screen bug)*
-
 *:warning:iCloud Services (Certifique de gerar uma nova SMBIOS!)*
 
-*iGPU Ok (+Patch 4096mb)*
+*:warning:Sleep/Wake (high battery drain standby!)*
+
+*:warning:WiFi (Need HeliPort on Ventura+)*
 
 *:warning:USB-C/2.0/3.0 (Need mapUSB For BT)*
+
+*:white_check_mark:iGPU Ok (+Patch 4096mb)*
+
+*:white_check_mark:TouchPad + Keyboard Ok*
+
+*:white_check_mark:Ethernet Ok*
+
+*:white_check_mark:Sound Ok* 
+
+*:no_entry_sign:MacOS 14 Beta (black screen bug)*
 
 *:no_entry_sign:BlueTooth (detect Broadcom vendor)*
 
 *:no_entry_sign:AirDrop (need BlueTooth)*
-
-*:warning:WiFi (Need HeliPort on Ventura+)*
-
-*:warning:Sleep/Wake (high battery drain standby!)*
-
-*TouchPad + Keyboard Ok*
-
-*Ethernet Ok*
-
-*Sound Ok* 
 
 
 # VRam Patch
