@@ -23,9 +23,9 @@ Intel AC 9560 (WIFI + BT)
 
 *:warning:USB-C/2.0/3.0 (Need mapUSB For BT)*
 
-*:no_entry_sign:BT (detect Broadcom vendor)*
+*:no_entry_sign:BlueTooth (detect Broadcom vendor)*
 
-*:no_entry_sign:AirDrop (need BT)*
+*:no_entry_sign:AirDrop (need BlueTooth)*
 
 *:warning:WiFi (Need HeliPort on Ventura+)*
 
