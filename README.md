@@ -15,31 +15,31 @@
 
 # Work? 99% yes
 
-*:warning:iCloud Services (Certifique de gerar uma nova SMBIOS!)*
+*:warning: iCloud Services (Make sure to generate a new valid SMBIOS!!)*
 
-*:warning:Sleep/Wake (high battery drain standby!)*
+*:warning: Sleep/Wake (high battery drain in standby!)*
 
-*:warning:WiFi (Need HeliPort on Ventura+)*
+*:warning: WiFi (Need HeliPort.app on Ventura+)*
 
-*:warning:USB-C/2.0/3.0 (Need mapUSB For BT)*
+*:warning: USB-C/2.0/3.0 (Need mapUSB For BT)*
 
-*:white_check_mark:iGPU (+Patch 4096mb)*
+*:white_check_mark: iGPU (+Patch 4096)*
 
-*:white_check_mark:TouchPad + Keyboard*
+*:white_check_mark: TouchPad + Keyboard*
 
-*:white_check_mark:Ethernet*
+*:white_check_mark: Ethernet*
 
-*:white_check_mark:Sound* 
+*:white_check_mark: Sound* 
 
-*:no_entry_sign:BlueTooth (detect Broadcom vendor)*
+*:no_entry_sign: Bluetooth (detect Broadcom vendor)*
 
-*:no_entry_sign:AirDrop (need BlueTooth)*
+*:no_entry_sign: AirDrop (need Bluetooth)*
 
-*:no_entry_sign:MacOS 14 Beta (black screen bug)*
+*:no_entry_sign: MacOS 14 Beta (black screen bug)*
 
 # VRam Patch
 
-DeviceProperties > "framebuffer-unifiedmem" > Hex DATA
+:arrow_lower_right: DeviceProperties > "framebuffer-unifiedmem" > add hex Value
 
 ![Captura de Tela 2023-08-20 às 14 37 13](https://github.com/tchozen/Nitro5_Ventura-0.94/assets/25504430/2fd1cbce-bdcc-4867-8a1d-624d1f7d0215)
 
