@@ -13,7 +13,7 @@ Intel UHD 630 + 1050TI
 Intel AC 9560 (WIFI + BT)
 
 
-# Funciona? 99% porem estável 24/7
+# Work? 99% yes
 
 *:warning:iCloud Services (Certifique de gerar uma nova SMBIOS!)*
 
@@ -23,20 +23,19 @@ Intel AC 9560 (WIFI + BT)
 
 *:warning:USB-C/2.0/3.0 (Need mapUSB For BT)*
 
-*:white_check_mark:iGPU Ok (+Patch 4096mb)*
+*:white_check_mark:iGPU (+Patch 4096mb)*
 
-*:white_check_mark:TouchPad + Keyboard Ok*
+*:white_check_mark:TouchPad + Keyboard*
 
-*:white_check_mark:Ethernet Ok*
+*:white_check_mark:Ethernet*
 
-*:white_check_mark:Sound Ok* 
-
-*:no_entry_sign:MacOS 14 Beta (black screen bug)*
+*:white_check_mark:Sound* 
 
 *:no_entry_sign:BlueTooth (detect Broadcom vendor)*
 
 *:no_entry_sign:AirDrop (need BlueTooth)*
 
+*:no_entry_sign:MacOS 14 Beta (black screen bug)*
 
 # VRam Patch
 
@@ -44,17 +43,17 @@ DeviceProperties > "framebuffer-unifiedmem" > Hex DATA
 
 ![Captura de Tela 2023-08-20 às 14 37 13](https://github.com/tchozen/Nitro5_Ventura-0.94/assets/25504430/2fd1cbce-bdcc-4867-8a1d-624d1f7d0215)
 
-00000040 = 1024MB
+1024mb : 00000040
 
-00000060 = 1536MB
+1536mb : 00000060 
 
-00000080 = 2048MB
+2048mb : 00000080 
 
-000000A0 = 2560MB
+2560mb : 000000A0 
 
-000000C0 = 3072MB
+3072mb : 000000C0 
 
-000000E0 = 3584MB
+3584mb : 000000E0 
 
-FFFFFFFF = 4096MB
+4096mb : FFFFFFFF 
 
