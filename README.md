@@ -15,7 +15,7 @@ Intel AC 9560 (WIFI + BT)
 
 # Funciona? 99% porem estável 24/7
 
-*MacOS 14 Beta :no_entry_sign: - (black screen bug)*
+*:no_entry_sign:MacOS 14 Beta (black screen bug)*
 
 *iCloud Services Ok (Certifique de gerar uma nova SMBIOS!)*
 
@@ -23,9 +23,9 @@ Intel AC 9560 (WIFI + BT)
 
 *USB-C/2.0/3.0 Ok (Need mapUSB For BT)*
 
-*BT :no_entry_sign: (detect Broadcom vendor)*
+*:no_entry_sign:BT (detect Broadcom vendor)*
 
-*AirDrop :no_entry_sign: (need BT)*
+*:no_entry_sign:AirDrop (need BT)*
 
 *WiFi Ok (Need HeliPort on Ventura+)*
 
