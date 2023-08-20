@@ -1,8 +1,8 @@
-# Nitro5 EFI Ventura - OpCore 0.94
+# Hackintosh Nitro5 - OpCore 0.94
 
 
 # Hardware
-i7 8750H - 6 Core (undervolt -147mv)
+i7 8750H - 6c/12t (undervolt -147mv)
 
 8GB XPG 2666 + 8GB Kingston 3200 (@ 2993mhz CL18)
 
@@ -12,12 +12,8 @@ Coffee Lake UHD 630 + 1050TI
 
 Intel AC 9560 (WIFI + BT)
 
-Realtek Codec ALC255
 
-Realtek Gigabit Family Chipset
-
-
-#Funciona? 99% porem estável 24/7
+# Funciona? 99% porem estável 24/7
 
 *MacOS 14 Beta Off - (black screen bug)*
 
