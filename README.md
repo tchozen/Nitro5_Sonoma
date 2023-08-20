@@ -2,11 +2,11 @@
 
 
 # Hardware
-i7 8750H - 6c/12t (undervolt -147mv)
+i7 8750H - 6C/12T (undervolt -0.147v)
 
-8GB XPG 2666 + 8GB Kingston 3200 (@ 2993mhz CL18)
+8GB XPG 2666 + 8GB Kingston 3200 (@ 2993mhz 1.25v)
 
-Asgard NVME 512GB PCI 3.0 + SanDisk Plus 240GB
+Asgard NVME 512GB + SanDisk Plus 240GB
 
 Coffee Lake UHD 630 + 1050TI 
 
