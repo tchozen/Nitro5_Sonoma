@@ -1,9 +1,6 @@
 # Nitro5 - OpCore 0.94 - MacOS Ventura 13.5
 ![Captura de Tela 2023-08-20 às 15 20 08](https://github.com/tchozen/Nitro5_Ventura-0.94/assets/25504430/6e475c16-ea5b-499c-89cb-e36e15c26f48)
 
-
-browser.geekbench.com/v6/cpu/2330673
-
 # Hardware
 i7 8750H - 6C/12T (undervolt -0.147v)
 
