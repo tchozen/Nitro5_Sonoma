@@ -1,5 +1,6 @@
-# Hackintosh Nitro5 - OpCore 0.94
-
+# Nitro5 - OpCore 0.94 - MacOS Ventura 13.5
+![Captura de Tela 2023-08-20 às 15 20 08](https://github.com/tchozen/Nitro5_Ventura-0.94/assets/25504430/649d8503-3846-42dd-b702-24fc73aa5731)
+browser.geekbench.com/v6/cpu/2330673
 
 # Hardware
 i7 8750H - 6C/12T (undervolt -0.147v)
@@ -41,6 +42,8 @@ Intel AC 9560 (WIFI + BT)
 # VRam Patch
 
 DeviceProperties > "framebuffer-unifiedmem" > Hex DATA
+
+![Captura de Tela 2023-08-20 às 14 37 13](https://github.com/tchozen/Nitro5_Ventura-0.94/assets/25504430/2fd1cbce-bdcc-4867-8a1d-624d1f7d0215)
 
 00000040 = 1024MB
 
