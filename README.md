@@ -18,6 +18,7 @@ Realtek Gigabit Family Chipset
 
 
 #Funciona? 99% porem estável 24/7
+
 *MacOS 14 Beta Off - (black screen bug)*
 
 *iCloud Services Ok (Certifique de gerar uma nova SMBIOS!)*
