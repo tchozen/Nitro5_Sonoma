@@ -2,15 +2,15 @@
 ![Captura de Tela 2023-08-20 às 15 20 08](https://github.com/tchozen/Nitro5_Ventura-0.94/assets/25504430/6e475c16-ea5b-499c-89cb-e36e15c26f48)
 
 # Nitro5 AN515-52
-i7 8750H (@Undervolt -0.147v)
+:computer:i7 8750H (@Undervolt -0.147v)
 
-8GB XPG 2666 + 8GB Kingston 3200 (@2993mhz 1.25v)
+:floppy_disk:8GB XPG 2666 + 8GB Kingston 3200 (@2993mhz 1.25v)
 
-Asgard NVME 512GB + SanDisk Plus 240GB
+:floppy_disk:Asgard NVME 512GB + SanDisk Plus 240GB
 
-Intel UHD 630 + 1050TI 
+:desktop_computer:Intel UHD 630 + 1050TI 
 
-Intel AC 9560 (WIFI + BT)
+:signal_strength:Intel AC 9560 (WIFI + BT)
 
 
 # Work? 99% yes
