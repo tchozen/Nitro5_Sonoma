@@ -46,9 +46,16 @@ Realtek Gigabit Family Chipset
 DeviceProperties > "framebuffer-unifiedmem" > Hex DATA
 
 00000040 = 1024MB
+
 00000060 = 1536MB
+
 00000080 = 2048MB
+
 000000A0 = 2560MB
+
 000000C0 = 3072MB
+
 000000E0 = 3584MB
+
 FFFFFFFF = 4096MB
+
