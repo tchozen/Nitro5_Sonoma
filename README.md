@@ -12,7 +12,7 @@ UHD 630 + 1050TI 4GB
 
 Intel AC 9560 (WIFI+BT)
 
-# Work? Yes but not 100%
+# Work? not 100% but is stable
 
 *:warning: iCloud Services (Make sure to generate a new valid SMBIOS!!)*
 
