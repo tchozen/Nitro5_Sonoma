@@ -8,9 +8,9 @@
 
  Asgard 512GB + SanDisk 240GB
 
-UHD 630 + 1050TI
+UHD 630 + 1050TI 4GB
 
-Intel AC 9560 (WIFI + BT)
+Intel AC 9560 (WIFI+BT)
 
 # Work? Yes but not 100%
 
