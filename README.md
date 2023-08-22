@@ -20,7 +20,7 @@ Intel AC 9560 (WIFI+BT)
 
 *:warning: WiFi (Need HeliPort.app on Ventura+)*
 
-**:white_check_mark: USB-C/2.0/3.0 *
+*:white_check_mark: USB-C/2.0/3.0*
 
 *:white_check_mark: iGPU (+Patch 4096)*
 
