@@ -1,18 +1,23 @@
-# OpCore 0.94 - MacOS Ventura 13.5
+# OpenCore 0.94 - Success MacOS 13 & 14b
+
+Sonoma (Beta) 14 :partying_face:
+   ![Captura de Tela 2023-08-22 às 00 21 42](https://github.com/tchozen/Nitro5_MacOSVentura/assets/25504430/43b82d68-173c-4d80-b584-2ec38653932d)
+
+Ventura 13.5
 ![Captura de Tela 2023-08-20 às 12 59 23](https://github.com/tchozen/Nitro5_MacOSVentura/assets/25504430/95af5856-b3ee-4dc9-b406-83d580fd8c34)
 
-# Nitro 5 AN515-52 Model 2018
- i7 8750H 6c12t ➰➰ ( Undervolt -0.147v + TDP Increase )
+# Nitro 5 Model 2018
+ i7 8750H 6C12T  ➰➰ ( Undervolt -0.147v + TDP Increase )
 
- 8GB 2666 + 8GB 3200 ➰➰ ( 2993 CL18 1T 1.25v )
+ 8GB 2666 + 8GB 3200  ➰➰ ( 2993 CL18 1T 1.25v )
 
  Asgard 512GB + SanDisk 240GB
 
 Intel UHD 630 + 1050TI 4GB
 
-Intel AC 9560 (WIFI+BT)
+Intel AC 9560 (WiFi+BT)
 
-# Work? not 100% but is stable
+# Work? 
 
 *:warning: Sleep/Wake (high battery drain in standby!)*
 
