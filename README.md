@@ -2,16 +2,15 @@
 ![Captura de Tela 2023-08-20 às 12 59 23](https://github.com/tchozen/Nitro5_MacOSVentura/assets/25504430/95af5856-b3ee-4dc9-b406-83d580fd8c34)
 
 # Hardware (Nitro5 AN515-52 Model 2018)
-:computer: i7 8750H 6C/12T (@ Undervolt -0.147v)
+ i7 8750H 6/12  @  undervolt -0.147v + TDP Tweak on BIOS (70W+)
 
-:floppy_disk: 8GB XPG 2666 + 8GB Kingston 3200 (@ 2993mhz 1.25v)
+ 8GB 2666 + 8GB 3200  @  2993 CL18 1T - 1.25v
 
-:floppy_disk: Asgard NVME 512GB + SanDisk Plus 240GB
+ Asgard 512GB + SanDisk 240GB
 
-:desktop_computer: Coffee Lake UHD 630 + GTX 1050TI
+UHD 630 + 1050TI
 
-:signal_strength: Intel AC 9560 (WIFI + BT)
-
+Intel AC 9560 (WIFI + BT)
 
 # Work? Yes but not 100%
 
