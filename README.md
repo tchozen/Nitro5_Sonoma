@@ -6,9 +6,9 @@
 ![Captura de Tela 2023-08-20 às 12 59 23](https://github.com/tchozen/Nitro5_MacOSVentura/assets/25504430/95af5856-b3ee-4dc9-b406-83d580fd8c34)
 
 # Nitro 5 2018 515-52
- i7 8750H 6C12T  ➰➰ ( Undervolt -0.147v + TDP Increase )
+ i7 8750h  ➰➰ (Undervolt -0.147v + TDP boost)
 
- 8GB 2666 + 8GB 3200  ➰➰ ( 2993 CL18 1T 1.25v )
+ 8GB 2666 + 8GB 3200  ➰➰ (2993 CL18 1T 1.25v)
 
  Asgard 512GB + SanDisk 240GB
 
