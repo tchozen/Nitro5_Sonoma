@@ -14,11 +14,11 @@ Intel AC 9560 (WIFI+BT)
 
 # Work? not 100% but is stable
 
-*:warning: iCloud Services (Make sure to generate a new valid SMBIOS!!)*
-
 *:warning: Sleep/Wake (high battery drain in standby!)*
 
 *:warning: WiFi (Need HeliPort.app on Ventura+)*
+
+*:white_check_mark: iCloud Services*
 
 *:white_check_mark: USB-C/2.0/3.0*
 
