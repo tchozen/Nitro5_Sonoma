@@ -1,9 +1,8 @@
-# OpenCore 0.94 - Success MacOS 13 & 14 :partying_face: :partying_face:
+# OpenCore 0.94 - Success Sonoma Beta 5 :partying_face: :partying_face:
 
 
    ![Captura de Tela 2023-08-22 às 00 21 42](https://github.com/tchozen/Nitro5_MacOSVentura/assets/25504430/43b82d68-173c-4d80-b584-2ec38653932d)
 
-![Captura de Tela 2023-08-20 às 12 59 23](https://github.com/tchozen/Nitro5_MacOSVentura/assets/25504430/95af5856-b3ee-4dc9-b406-83d580fd8c34)
 
 # Nitro 5 2018 515-52
  i7 8750h  ➰➰ (Undervolt -0.147v + TDP boost)
@@ -20,7 +19,7 @@ Intel AC 9560 (WiFi+BT)
 
 *:warning: Sleep/Wake (high battery drain in standby!)*
 
-*:white_check_mark: WiFi (Need HeliPort.app on Ventura+)*
+*:white_check_mark: WiFi*
 
 *:white_check_mark: iCloud Services*
 
