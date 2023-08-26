@@ -11,7 +11,7 @@
 
  Asgard 512GB + SanDisk 240GB
 
-Cofee Lake UHD 630 + 1050TI 4GB
+Coffee Lake UHD 630 + 1050TI 4GB
 
 Intel AC 9560 (WiFi+BT)
 
