@@ -4,20 +4,20 @@
    ![Captura de Tela 2023-08-22 às 00 21 42](https://github.com/tchozen/Nitro5_MacOSVentura/assets/25504430/43b82d68-173c-4d80-b584-2ec38653932d)
 
 
-# Nitro 5 2018 515-52
- i7 8750h  ➰➰ (Undervolt -0.147v + TDP boost)
+# Nitro 5 2018 an515-52
+ i7 8750h  ➰➰ (Undervolt + TDP unlock)
 
- 8GB 2666 + 8GB 3200  ➰➰ (2993 CL18 1T 1.25v)
+ 8GB 2666 + 8GB 3200  ➰➰ (2993mhz 1.25v)
 
  Asgard 512GB + SanDisk 240GB
 
-Intel UHD 630 + 1050TI 4GB
+Cofee Lake UHD 630 + 1050TI 4GB
 
 Intel AC 9560 (WiFi+BT)
 
 # Work? 
 
-*:warning: Sleep/Wake (high battery drain in standby!)*
+*:white_check_mark: Sleep/Wake*
 
 *:white_check_mark: WiFi*
 
