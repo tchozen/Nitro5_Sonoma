@@ -15,6 +15,7 @@ Coffee Lake UHD 630 + 1050TI 4GB
 
 Intel AC 9560 (WiFi+BT)
 
+**this efi has set-up skip boot selector on opencore, is booting first macos in list automatically **
 # Work? 
 
 *:white_check_mark: Sleep/Wake*
