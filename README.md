@@ -5,13 +5,13 @@
 
 
 # Nitro 5 2018 an515-52
- i7 8750h  ➰➰ (Undervolt + TDP unlock)
+ i7 8750h 6c 12t
 
- 8GB 2666 + 8GB 3200  ➰➰ (2993mhz 1.25v)
+ 8GB 2666 + 8GB 3200
 
  Asgard 512GB + SanDisk 240GB
 
-Coffee Lake UHD 630 + 1050TI 4GB
+UHD 630 + 1050TI 4GB
 
 Intel AC 9560 (WiFi+BT)
 
